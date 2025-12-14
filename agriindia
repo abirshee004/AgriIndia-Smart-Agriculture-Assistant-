@@ -1,0 +1,9 @@
+AgriGuru/
+│
+├── app.py
+├── crop_model.pkl
+├── label_encoder.pkl
+├── requirements.txt
+├── README.md
+├── assets/
+├── pages/
