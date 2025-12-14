@@ -17,7 +17,7 @@ The project currently focuses on **Crop Recommendation**, with future extensions
 
 | Field | Details |
 |------|--------|
-| **Project Name** | AgriGuru – Smart Agriculture Assistant |
+| **Project Name** | AgriIndia – Smart Agriculture Assistant |
 | **Domain** | Artificial Intelligence & Agriculture |
 | **Project Type** | Final Year Academic Project |
 | **Developed For** | Indian Agriculture |
@@ -142,7 +142,7 @@ streamlit run app.py
 
 
 ## 👥 Team
-- **Team Leader:** Abir Shee
+- **Team Leader:** ABIR SHEE
 - Diptam Kundu
 - Amritash Banarjee
 - Kaushiki Mandal
