@@ -156,7 +156,8 @@ streamlit run app.py
 ## 🏫 Institute
 B.P. Poddar Institute of Management and Technology  
 Kolkata, India
-Batch (2022 - 2026), CSE
+
+# Batch (2022 - 2026), CSE
 
 ## 🇮🇳 Made in India
 
