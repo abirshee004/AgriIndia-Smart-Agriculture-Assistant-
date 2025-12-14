@@ -135,11 +135,14 @@ cd AgriGuru
 
 ## OPEN CMD in your system, then copy paste this: 
 ### 2️⃣ Install Dependencies
+```bash
 pip install -r requirements.txt
+```
 
 ### 3️⃣ Run the Streamlit App
+```bash
 streamlit run app.py
-
+```
 
 ## 👥 Team
 - **Team Leader:** ABIR SHEE
