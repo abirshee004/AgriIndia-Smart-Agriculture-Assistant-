@@ -146,6 +146,8 @@ streamlit run app.py
 
 ## 👥 Team
 - **Team Leader:** ABIR SHEE
+- **Project Mentor:** SOUMI TAKDAR
+**Members**
 - Diptam Kundu
 - Amritash Banarjee
 - Kaushiki Mandal
@@ -154,6 +156,7 @@ streamlit run app.py
 ## 🏫 Institute
 B.P. Poddar Institute of Management and Technology  
 Kolkata, India
+Batch (2022 - 2026), CSE
 
 ## 🇮🇳 Made in India
 
