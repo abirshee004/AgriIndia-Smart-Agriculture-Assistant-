@@ -111,7 +111,8 @@ AgriGuru/
 │   ├── 1_🏠_Home.py
 │   ├── 2_🌾_Models.py
 │   ├── 3_🛒_Products.py
-│   ├── 4_ℹ️_About.py
+│   ├── 4_📰_News.py
+│   ├── 5_ℹ️_About.py
 │
 ├── assets/                    # Images & static files
 │   ├── team images
