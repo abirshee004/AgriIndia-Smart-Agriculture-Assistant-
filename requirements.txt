@@ -6,4 +6,4 @@ lightgbm
 joblib
 opencv-python-headless
 pyttsx3
-tensorflow
+tensorflow==2.19.0
