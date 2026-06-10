@@ -5,3 +5,4 @@ scikit-learn
 lightgbm
 joblib
 opencv-python-headless
+import pyttsx3
