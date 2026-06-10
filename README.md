@@ -11,6 +11,10 @@ AgriGuru is an **AI-powered smart agriculture assistant** designed to help **Ind
 
 The project currently focuses on **Crop Recommendation**, with future extensions for **Crop Disease Prediction, Weather Forecasting, Market Price Analysis**, and a **multilingual chatbot** for farmers.
 
+## 🚀 Live Demo
+
+🔗 **Website:** [https://your-streamlit-app-url.streamlit.app](https://agriindia.streamlit.app/)
+
 ---
 
 ## 📌 Project Overview
