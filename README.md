@@ -13,7 +13,7 @@ The project currently focuses on **Crop Recommendation**, with future extensions
 
 ## 🚀 Live Demo
 
-🔗 **Website:** [https://your-streamlit-app-url.streamlit.app]((https://agriindia.streamlit.app/))
+🔗 **Website:** [https://your-streamlit-app-url.streamlit.app](https://agriindia.streamlit.app/)
 
 ---
 
