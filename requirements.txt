@@ -1,7 +1,8 @@
 streamlit
 pandas
 numpy
-scikit-learn
-lightgbm
 joblib
-opencv-python-headless
+scikit-learn
+xgboost
+requests
+openpyxl
