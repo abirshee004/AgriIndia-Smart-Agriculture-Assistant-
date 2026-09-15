@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("🛒 AgriGuru Store – Smart Farming Products")
+st.title("🛒 AgriIndia Store – Smart Farming Products")
 
 st.write("High-quality tools to help Indian farmers adopt smart agriculture 🇮🇳")
 st.markdown("---")
